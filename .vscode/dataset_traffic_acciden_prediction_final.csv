@@ -1,0 +1,623 @@
+Weather,Road_Type,Time_of_Day,Traffic_Density,Speed_Limit,Number_of_Vehicles,Driver_Alcohol,Accident_Severity,Road_Condition,Vehicle_Type,Driver_Age,Driver_Experience,Road_Light_Condition,Accident,Date
+Rainy,Highway,Evening,1,60,4,0,Low,Icy,Car,54,52,Artificial Light,0,13/9/2023
+Clear,City Road,Afternoon,2,60,3,0,Low,Under Construction,Bus,34,31,Daylight,0,8/10/2023
+Rainy,Highway,Morning,1,195,11,0,Low,Dry,Car,62,55,Artificial Light,1,12/6/2024
+Foggy,Highway,Afternoon,0,60,4,0,Low,Dry,Truck,27,26,Daylight,1,26/9/2024
+Rainy,City Road,Afternoon,0,60,4,0,Low,Dry,Car,29,22,Artificial Light,1,12/11/2024
+Stormy,Highway,Morning,1,60,2,0,High,Icy,Car,38,29,Artificial Light,0,10/7/2025
+Rainy,City Road,Afternoon,2,30,2,0,Low,Dry,Truck,50,48,Artificial Light,0,5/5/2023
+Clear,Mountain Road,Night,2,100,5,0,Low,Dry,Motorcycle,47,38,Artificial Light,1,14/5/2025
+Foggy,City Road,Night,1,60,3,0,Moderate,Wet,Motorcycle,35,32,No Light,0,27/8/2023
+Clear,City Road,Afternoon,1,50,1,0,Moderate,Dry,Car,59,53,Daylight,1,18/7/2023
+Clear,City Road,Morning,2,60,2,0,Low,Dry,Car,27,23,Daylight,0,27/6/2023
+Clear,Highway,Morning,0,30,1,0,Low,Dry,Car,53,47,Daylight,0,7/5/2024
+Rainy,Highway,Afternoon,0,100,3,0,High,Wet,Car,28,25,Artificial Light,0,29/8/2025
+Foggy,Rural Road,Morning,1,60,2,1,Moderate,Under Construction,Car,40,38,Artificial Light,1,27/10/2023
+Foggy,Highway,Night,0,100,1,0,Low,Under Construction,Car,59,57,Artificial Light,0,26/3/2025
+Clear,Highway,Morning,1,60,3,0,Low,Icy,Car,65,57,Artificial Light,1,18/11/2024
+Rainy,Mountain Road,Afternoon,1,60,1,0,Low,Dry,Car,18,13,No Light,0,2/4/2025
+Clear,Highway,Morning,0,60,5,0,Low,Under Construction,Car,40,37,Artificial Light,0,25/6/2025
+Foggy,Highway,Night,0,60,5,0,Low,Dry,Car,69,63,Daylight,0,4/2/2025
+Foggy,Highway,Evening,0,60,1,1,Low,Wet,Car,22,21,Daylight,0,7/9/2025
+Rainy,Mountain Road,Afternoon,0,60,5,1,High,Dry,Bus,26,25,Daylight,0,2/2/2025
+Clear,Highway,Night,1,30,1,0,Low,Wet,Car,59,54,Artificial Light,0,5/7/2023
+Clear,City Road,Afternoon,1,60,5,0,Low,Dry,Truck,23,14,Daylight,0,3/4/2023
+Clear,Highway,Evening,0,80,5,0,Moderate,Wet,Car,57,55,Daylight,1,16/9/2025
+Clear,Highway,Morning,0,60,4,0,Low,Dry,Car,26,25,Artificial Light,0,8/1/2023
+Foggy,Highway,Afternoon,1,50,5,0,Low,Icy,Car,43,39,Artificial Light,1,14/4/2025
+Rainy,Highway,Afternoon,0,100,4,1,Moderate,Dry,Car,23,16,Artificial Light,0,31/5/2023
+Foggy,Highway,Evening,2,100,5,1,Low,Dry,Car,64,55,Daylight,1,13/10/2024
+Clear,City Road,Morning,2,50,1,0,Low,Dry,Car,67,66,Artificial Light,0,29/11/2024
+Clear,Highway,Afternoon,1,80,3,1,Low,Dry,Car,56,48,No Light,0,10/12/2024
+Foggy,Rural Road,Morning,0,80,4,0,Low,Dry,Motorcycle,40,32,Daylight,0,31/1/2025
+Rainy,Highway,Night,1,30,1,0,Low,Dry,Car,54,54,Daylight,0,24/4/2023
+Clear,Highway,Afternoon,2,80,3,0,Low,Dry,Car,52,43,Artificial Light,0,27/8/2023
+Foggy,Highway,Evening,2,30,5,0,High,Wet,Car,35,26,Artificial Light,1,27/8/2024
+Snowy,Highway,Morning,2,60,4,0,Low,Wet,Car,50,43,Daylight,1,8/9/2025
+Rainy,Highway,Afternoon,0,60,4,0,Low,Under Construction,Car,65,60,Daylight,0,20/2/2025
+Rainy,Rural Road,Afternoon,0,60,2,0,Moderate,Under Construction,Car,59,53,Daylight,0,12/6/2023
+Clear,Highway,Morning,2,50,3,0,Low,Icy,Car,24,21,Artificial Light,0,14/3/2025
+Rainy,Highway,Evening,0,100,2,0,Low,Icy,Truck,37,29,Daylight,1,6/3/2023
+Rainy,Highway,Afternoon,0,60,2,0,Low,Dry,Car,26,23,Artificial Light,0,3/1/2023
+Foggy,Rural Road,Morning,0,30,3,0,High,Dry,Car,42,42,Artificial Light,0,21/10/2023
+Clear,Highway,Evening,0,80,2,0,Low,Icy,Car,69,64,Artificial Light,1,7/7/2023
+Snowy,Highway,Night,2,50,4,0,High,Dry,Bus,21,14,Daylight,0,18/12/2025
+Clear,Highway,Evening,2,60,5,1,Moderate,Icy,Car,68,65,Artificial Light,0,17/1/2025
+Clear,City Road,Night,2,80,1,0,Low,Dry,Car,55,46,No Light,0,5/5/2024
+Foggy,Mountain Road,Evening,2,50,2,0,High,Icy,Truck,21,18,No Light,0,4/5/2023
+Clear,Mountain Road,Afternoon,0,60,1,0,Low,Dry,Bus,65,57,Artificial Light,0,10/10/2024
+Snowy,Mountain Road,Morning,0,50,4,0,Low,Icy,Car,55,52,No Light,0,30/5/2024
+Snowy,Highway,Afternoon,2,50,5,0,Low,Under Construction,Motorcycle,30,21,Artificial Light,0,9/5/2023
+Clear,Highway,Night,2,60,2,1,Low,Dry,Bus,65,57,Artificial Light,1,27/8/2024
+Rainy,Highway,Afternoon,2,80,3,1,Low,Dry,Motorcycle,62,60,Daylight,1,12/12/2024
+Clear,Highway,Afternoon,1,50,3,0,Moderate,Dry,Car,24,22,Artificial Light,0,25/4/2025
+Rainy,City Road,Afternoon,1,30,5,1,Moderate,Icy,Car,54,53,Artificial Light,0,6/7/2023
+Rainy,City Road,Afternoon,1,178,12,0,Moderate,Wet,Car,67,59,Daylight,1,26/2/2025
+Rainy,Highway,Afternoon,0,60,1,0,Low,Under Construction,Car,34,30,Daylight,0,9/3/2025
+Clear,City Road,Afternoon,1,100,5,0,Moderate,Icy,Car,34,26,Artificial Light,0,27/6/2025
+Rainy,City Road,Afternoon,1,60,2,0,High,Dry,Motorcycle,21,19,Daylight,0,25/9/2025
+Snowy,Rural Road,Afternoon,1,60,1,0,High,Dry,Car,43,42,Artificial Light,1,2/10/2023
+Snowy,Rural Road,Evening,1,50,5,0,Low,Wet,Motorcycle,64,56,No Light,0,25/4/2025
+Clear,Rural Road,Afternoon,1,60,1,0,Low,Icy,Car,60,56,Daylight,0,28/7/2024
+Clear,City Road,Morning,0,80,1,0,Low,Wet,Motorcycle,50,42,No Light,0,24/2/2025
+Clear,City Road,Morning,1,60,3,0,Low,Wet,Car,32,27,Daylight,0,30/11/2023
+Clear,City Road,Afternoon,2,50,5,1,Low,Dry,Car,36,33,Daylight,1,9/11/2024
+Clear,City Road,Morning,0,80,1,0,Moderate,Dry,Motorcycle,36,36,Artificial Light,1,27/10/2025
+Clear,Highway,Afternoon,1,50,5,0,Moderate,Dry,Car,27,20,Artificial Light,1,3/8/2025
+Snowy,City Road,Night,0,60,3,0,Moderate,Dry,Car,45,43,Daylight,0,21/7/2024
+Rainy,Highway,Morning,0,60,4,0,Moderate,Dry,Car,69,69,No Light,1,21/5/2025
+Snowy,City Road,Night,1,100,3,0,High,Dry,Bus,33,25,Artificial Light,0,10/2/2024
+Clear,City Road,Morning,2,50,1,0,Low,Dry,Car,62,53,Artificial Light,1,19/7/2024
+Clear,Highway,Afternoon,2,50,1,0,Low,Under Construction,Truck,60,52,Artificial Light,0,14/2/2024
+Foggy,City Road,Afternoon,0,100,4,0,High,Dry,Truck,63,62,Artificial Light,1,11/8/2023
+Snowy,Highway,Afternoon,2,50,5,0,Low,Icy,Truck,58,55,Daylight,0,13/6/2024
+Rainy,Rural Road,Afternoon,0,80,2,0,Low,Dry,Car,45,39,Artificial Light,0,21/10/2023
+Stormy,City Road,Evening,2,60,2,1,High,Dry,Truck,65,57,Daylight,0,27/9/2023
+Clear,City Road,Evening,1,30,4,1,Moderate,Dry,Car,42,36,Artificial Light,0,17/12/2025
+Clear,Rural Road,Morning,0,60,2,0,Low,Icy,Car,68,61,No Light,0,1/12/2025
+Rainy,Highway,Morning,1,80,1,1,Low,Wet,Car,47,39,Daylight,0,15/1/2025
+Rainy,City Road,Morning,1,100,1,0,Low,Wet,Car,18,10,Artificial Light,0,12/4/2023
+Clear,Rural Road,Night,1,50,2,1,Low,Dry,Car,27,26,Artificial Light,1,2/3/2025
+Rainy,Highway,Morning,1,60,1,0,Low,Dry,Car,32,29,Daylight,0,5/4/2023
+Clear,City Road,Afternoon,0,213,11,0,Low,Dry,Motorcycle,65,56,Daylight,1,16/9/2023
+Rainy,Rural Road,Evening,2,50,4,0,Low,Dry,Car,46,42,Artificial Light,0,13/9/2024
+Rainy,Highway,Evening,0,60,3,0,Low,Wet,Car,65,59,Artificial Light,0,2/10/2023
+Rainy,Highway,Evening,1,30,1,0,Low,Dry,Car,25,18,Daylight,0,9/6/2023
+Rainy,Highway,Evening,2,30,2,1,Low,Wet,Car,69,63,Daylight,0,6/5/2025
+Clear,Highway,Evening,2,80,2,0,Moderate,Dry,Car,52,45,Daylight,0,17/3/2023
+Clear,Rural Road,Evening,1,60,5,0,Moderate,Dry,Truck,37,33,Daylight,1,26/10/2025
+Clear,Rural Road,Afternoon,1,50,1,0,Low,Dry,Car,29,22,No Light,1,8/11/2023
+Rainy,City Road,Afternoon,2,60,3,0,Low,Dry,Car,37,30,Artificial Light,0,30/12/2025
+Clear,Highway,Morning,0,60,4,1,High,Wet,Truck,36,27,Daylight,0,17/4/2023
+Clear,Highway,Night,0,60,5,0,Moderate,Dry,Truck,36,31,Daylight,1,30/8/2025
+Clear,City Road,Morning,2,30,3,0,High,Dry,Car,47,38,Artificial Light,0,5/3/2024
+Clear,Rural Road,Afternoon,2,30,1,0,Low,Wet,Truck,53,50,Daylight,1,23/2/2025
+Clear,Highway,Morning,2,60,3,0,Moderate,Dry,Motorcycle,56,51,Artificial Light,0,19/5/2023
+Rainy,Highway,Evening,2,80,2,0,High,Dry,Motorcycle,52,46,Daylight,0,19/10/2024
+Rainy,Highway,Afternoon,1,60,2,0,Low,Dry,Car,35,27,Daylight,0,27/5/2024
+Stormy,City Road,Evening,0,190,14,1,High,Dry,Car,69,62,Artificial Light,1,27/8/2025
+Clear,Highway,Afternoon,0,60,4,0,High,Icy,Car,19,15,Artificial Light,0,31/3/2023
+Rainy,City Road,Night,2,100,3,0,Moderate,Under Construction,Car,44,37,Daylight,0,21/11/2025
+Rainy,Highway,Evening,1,196,11,0,Moderate,Icy,Car,38,32,Daylight,0,16/2/2024
+Clear,Highway,Night,0,60,1,0,Low,Icy,Car,31,22,Artificial Light,0,15/8/2025
+Rainy,City Road,Evening,1,80,1,0,Low,Wet,Car,33,33,Daylight,0,6/5/2024
+Clear,Rural Road,Afternoon,1,50,3,0,Low,Dry,Motorcycle,35,34,Artificial Light,0,18/10/2025
+Clear,Highway,Morning,1,80,1,0,Moderate,Icy,Car,45,36,No Light,0,6/11/2023
+Foggy,Highway,Afternoon,0,50,2,0,Low,Dry,Car,69,63,Daylight,0,8/12/2023
+Foggy,City Road,Night,0,188,10,1,Low,Icy,Car,33,27,Artificial Light,0,4/11/2025
+Clear,Highway,Night,2,80,1,0,High,Icy,Car,46,41,Daylight,0,30/7/2023
+Clear,Highway,Evening,2,100,4,0,Moderate,Icy,Truck,52,43,Daylight,0,5/10/2025
+Clear,Highway,Morning,1,100,4,0,Moderate,Dry,Motorcycle,62,57,Artificial Light,1,24/4/2023
+Rainy,City Road,Morning,1,50,4,0,Low,Dry,Car,36,33,Artificial Light,0,8/3/2025
+Rainy,City Road,Afternoon,2,30,2,0,Low,Under Construction,Motorcycle,68,66,Daylight,0,16/8/2023
+Foggy,City Road,Afternoon,2,30,3,0,Low,Dry,Car,62,59,Daylight,0,27/6/2023
+Rainy,Highway,Afternoon,2,100,3,0,High,Wet,Car,43,38,Artificial Light,0,6/3/2024
+Clear,Highway,Morning,1,60,5,0,Low,Wet,Truck,63,60,Artificial Light,0,15/1/2023
+Stormy,Highway,Evening,1,195,14,0,Moderate,Dry,Car,46,38,No Light,0,27/6/2024
+Clear,City Road,Afternoon,1,80,1,1,Low,Dry,Car,37,31,Artificial Light,0,8/12/2023
+Foggy,Highway,Evening,2,60,1,0,Low,Dry,Car,43,43,Daylight,0,11/7/2023
+Clear,Highway,Afternoon,2,100,4,0,Low,Under Construction,Truck,27,26,Daylight,0,26/7/2023
+Clear,Highway,Afternoon,1,80,5,0,Low,Icy,Car,29,28,Artificial Light,0,17/12/2024
+Rainy,City Road,Morning,2,80,1,0,Low,Under Construction,Car,46,43,Artificial Light,0,21/10/2025
+Clear,Highway,Afternoon,0,50,5,0,Moderate,Dry,Car,24,18,Daylight,0,6/1/2023
+Clear,Mountain Road,Afternoon,0,50,4,1,Moderate,Dry,Motorcycle,66,59,Artificial Light,0,9/2/2024
+Rainy,Highway,Afternoon,0,60,4,0,Low,Under Construction,Car,65,60,Daylight,0,26/12/2024
+Snowy,Highway,Afternoon,1,60,5,0,Low,Dry,Truck,61,60,Artificial Light,0,13/1/2023
+Clear,Highway,Evening,2,60,1,0,Moderate,Wet,Truck,50,45,Artificial Light,0,2/3/2025
+Clear,Rural Road,Afternoon,2,80,5,0,Low,Wet,Car,42,36,Artificial Light,1,21/11/2024
+Clear,Highway,Afternoon,1,80,3,0,Low,Dry,Car,24,24,Daylight,0,13/10/2023
+Snowy,Highway,Morning,2,60,4,0,Low,Wet,Car,50,43,Daylight,1,13/2/2025
+Rainy,City Road,Morning,0,50,3,0,High,Icy,Motorcycle,58,49,Artificial Light,0,30/3/2024
+Rainy,Rural Road,Evening,0,120,5,1,Moderate,Wet,Car,38,30,Artificial Light,0,29/6/2023
+Foggy,City Road,Afternoon,2,50,5,0,High,Wet,Car,26,17,Artificial Light,0,12/3/2025
+Clear,City Road,Evening,1,120,4,0,Low,Dry,Car,38,37,Artificial Light,1,6/3/2023
+Clear,Highway,Morning,2,100,2,0,Low,Dry,Car,48,43,Daylight,0,8/9/2025
+Rainy,Mountain Road,Morning,2,30,5,0,Low,Dry,Car,30,28,Artificial Light,0,14/7/2025
+Rainy,Highway,Afternoon,0,80,5,0,Low,Dry,Motorcycle,24,23,Daylight,0,27/9/2023
+Clear,Rural Road,Morning,1,30,1,0,Low,Dry,Car,21,21,Artificial Light,0,30/4/2024
+Clear,Highway,Evening,0,100,4,1,Moderate,Wet,Car,33,26,Artificial Light,0,15/6/2025
+Clear,Highway,Afternoon,0,60,3,0,Low,Dry,Motorcycle,41,41,No Light,0,21/6/2025
+Clear,Highway,Afternoon,1,50,3,0,Moderate,Dry,Car,26,17,Artificial Light,0,12/3/2023
+Clear,Highway,Morning,1,60,3,0,Low,Icy,Car,65,57,Artificial Light,1,18/4/2025
+Clear,Highway,Afternoon,0,60,2,1,Low,Wet,Car,41,41,Artificial Light,1,17/7/2023
+Clear,Highway,Evening,0,80,5,0,Low,Dry,Car,23,22,Daylight,1,13/3/2023
+Rainy,Highway,Evening,2,100,3,0,Low,Icy,Car,34,34,Artificial Light,0,24/9/2023
+Clear,City Road,Evening,2,50,3,0,Low,Dry,Car,49,44,Daylight,1,16/11/2025
+Clear,Highway,Night,1,50,3,0,Moderate,Dry,Car,36,35,Artificial Light,1,14/2/2024
+Rainy,Rural Road,Afternoon,2,80,3,0,Moderate,Wet,Truck,64,57,Artificial Light,1,25/10/2025
+Stormy,City Road,Afternoon,0,50,1,0,High,Dry,Car,22,14,Artificial Light,0,18/8/2023
+Rainy,City Road,Morning,1,50,1,0,Low,Wet,Car,18,9,Artificial Light,0,13/6/2024
+Stormy,Highway,Night,1,60,5,0,Low,Icy,Car,27,19,Daylight,1,10/5/2023
+Rainy,Highway,Evening,1,50,3,0,Low,Dry,Motorcycle,65,63,Artificial Light,1,27/11/2023
+Clear,Highway,Afternoon,0,60,1,0,Moderate,Icy,Car,56,55,Daylight,0,28/5/2024
+Foggy,Highway,Evening,0,60,3,1,High,Dry,Car,53,53,Daylight,0,28/9/2023
+Rainy,Highway,Night,0,100,5,0,Moderate,Icy,Car,21,19,Artificial Light,0,23/10/2024
+Clear,City Road,Afternoon,2,60,1,0,Low,Dry,Motorcycle,60,52,Artificial Light,0,2/7/2025
+Clear,Highway,Afternoon,2,100,2,0,Moderate,Dry,Car,42,41,Artificial Light,0,12/1/2023
+Snowy,City Road,Morning,1,100,1,1,Low,Icy,Car,36,34,Daylight,0,16/8/2024
+Snowy,Mountain Road,Evening,2,80,2,1,Moderate,Dry,Car,23,22,Daylight,1,12/9/2025
+Snowy,Highway,Morning,2,50,3,1,Moderate,Icy,Car,29,29,Artificial Light,0,8/2/2025
+Clear,Highway,Night,1,60,5,0,Low,Dry,Bus,20,15,Artificial Light,1,8/4/2024
+Clear,Highway,Afternoon,1,50,5,1,Moderate,Dry,Car,27,24,Artificial Light,0,17/1/2024
+Snowy,Highway,Morning,2,50,5,1,Low,Dry,Car,31,29,Artificial Light,0,10/9/2023
+Clear,Mountain Road,Morning,0,60,3,0,Low,Dry,Car,33,29,Daylight,0,17/3/2023
+Clear,Highway,Evening,2,50,4,0,High,Dry,Motorcycle,27,18,No Light,0,15/10/2024
+Rainy,City Road,Afternoon,1,100,3,0,Moderate,Wet,Car,54,50,Artificial Light,0,16/12/2024
+Snowy,City Road,Evening,2,60,3,0,Low,Wet,Truck,38,34,Artificial Light,0,12/2/2023
+Clear,Highway,Evening,1,60,2,0,Low,Wet,Car,32,27,Artificial Light,0,19/12/2023
+Clear,Mountain Road,Afternoon,1,30,5,1,Moderate,Wet,Car,38,36,Artificial Light,1,17/9/2025
+Clear,City Road,Afternoon,0,60,1,0,Moderate,Under Construction,Motorcycle,43,40,Artificial Light,1,21/7/2023
+Clear,City Road,Evening,0,50,1,1,Low,Wet,Truck,57,53,Daylight,1,16/6/2025
+Stormy,City Road,Evening,1,189,13,0,Low,Icy,Car,68,60,Artificial Light,0,23/2/2024
+Foggy,Highway,Afternoon,1,80,2,0,High,Icy,Car,30,25,Artificial Light,0,11/7/2023
+Snowy,Highway,Evening,1,30,5,0,Low,Dry,Car,52,45,Daylight,1,28/1/2024
+Clear,Highway,Afternoon,2,30,4,0,Low,Wet,Truck,47,45,Daylight,0,23/11/2024
+Clear,Highway,Evening,1,50,4,1,Low,Dry,Car,29,25,Artificial Light,0,8/10/2025
+Rainy,Highway,Morning,2,80,2,0,Low,Dry,Car,43,35,Artificial Light,1,4/2/2024
+Clear,Highway,Afternoon,1,50,5,0,High,Icy,Car,23,17,Artificial Light,1,12/3/2023
+Snowy,City Road,Afternoon,1,60,1,0,Moderate,Dry,Motorcycle,48,45,No Light,1,12/6/2025
+Snowy,Rural Road,Afternoon,2,100,4,0,Low,Dry,Car,40,36,Daylight,1,11/6/2025
+Rainy,Rural Road,Morning,2,60,2,1,Low,Icy,Car,18,18,Daylight,0,4/5/2025
+Rainy,Highway,Afternoon,1,100,2,0,Moderate,Dry,Bus,26,18,Daylight,0,23/12/2023
+Rainy,City Road,Afternoon,0,60,3,0,High,Icy,Car,34,27,Artificial Light,0,29/8/2025
+Clear,City Road,Evening,1,80,5,0,Low,Icy,Car,43,41,Daylight,0,21/1/2025
+Clear,Rural Road,Afternoon,1,50,4,0,Low,Dry,Car,49,40,Daylight,0,22/9/2025
+Snowy,Highway,Evening,1,100,3,0,Moderate,Wet,Car,54,53,Artificial Light,0,29/5/2025
+Clear,Highway,Night,0,120,5,0,Moderate,Icy,Car,67,63,Daylight,1,21/6/2025
+Rainy,Highway,Night,2,100,4,0,Moderate,Wet,Car,22,21,Artificial Light,0,11/2/2023
+Snowy,Rural Road,Evening,1,80,2,0,Low,Wet,Car,27,18,Daylight,1,6/3/2024
+Clear,Highway,Evening,1,60,5,1,High,Dry,Car,26,17,Daylight,0,24/9/2024
+Foggy,City Road,Evening,0,100,1,0,Low,Dry,Car,35,26,Artificial Light,1,9/10/2025
+Rainy,Highway,Night,2,30,5,0,Low,Icy,Car,56,55,Daylight,1,17/11/2025
+Snowy,City Road,Evening,1,50,2,0,Low,Wet,Car,67,65,Artificial Light,1,7/5/2024
+Clear,City Road,Morning,2,50,1,0,Low,Dry,Car,62,53,Artificial Light,1,19/11/2024
+Rainy,Mountain Road,Evening,2,100,3,0,Moderate,Icy,Truck,59,57,Artificial Light,0,8/9/2023
+Clear,Highway,Afternoon,0,60,4,0,High,Under Construction,Car,24,19,Artificial Light,0,21/5/2023
+Clear,Highway,Afternoon,0,100,5,0,Moderate,Dry,Car,43,41,Daylight,0,11/4/2023
+Clear,Highway,Evening,1,80,2,0,Moderate,Under Construction,Car,24,21,No Light,0,10/11/2025
+Foggy,Highway,Morning,0,80,4,0,Low,Dry,Car,56,51,No Light,1,28/2/2023
+Rainy,Rural Road,Afternoon,2,60,4,0,Low,Dry,Car,46,40,Daylight,0,23/4/2024
+Stormy,Highway,Night,1,100,3,0,Moderate,Icy,Car,29,21,Daylight,0,24/6/2025
+Rainy,Rural Road,Afternoon,1,60,4,0,Low,Dry,Car,52,44,Artificial Light,0,8/1/2024
+Stormy,Mountain Road,Evening,2,50,3,0,Low,Dry,Bus,58,51,No Light,0,6/7/2024
+Clear,Highway,Morning,2,120,3,0,Low,Wet,Car,43,40,Daylight,0,18/11/2023
+Clear,Highway,Morning,2,100,2,0,Low,Dry,Car,48,43,Daylight,0,30/5/2023
+Clear,Highway,Afternoon,1,100,2,0,Low,Dry,Car,20,15,Artificial Light,0,16/2/2024
+Clear,Rural Road,Night,0,60,5,0,Low,Wet,Truck,46,45,Artificial Light,0,18/1/2023
+Clear,Highway,Night,2,60,4,0,Low,Dry,Car,55,51,Artificial Light,1,8/2/2024
+Clear,City Road,Morning,2,50,1,0,Low,Dry,Car,67,66,Artificial Light,0,18/9/2025
+Foggy,Highway,Evening,0,50,3,0,Low,Dry,Car,64,62,Artificial Light,0,8/3/2024
+Clear,Highway,Afternoon,0,60,1,0,Moderate,Icy,Car,56,55,Daylight,0,4/6/2025
+Clear,City Road,Morning,0,50,5,0,Moderate,Dry,Truck,68,61,Daylight,1,30/11/2023
+Clear,Highway,Afternoon,2,100,4,0,Low,Dry,Car,39,34,Artificial Light,1,26/6/2023
+Stormy,Highway,Morning,0,60,1,0,Moderate,Dry,Car,21,19,Artificial Light,0,22/3/2025
+Stormy,Highway,Morning,2,60,4,0,Low,Wet,Car,31,29,Artificial Light,0,8/9/2025
+Foggy,Mountain Road,Morning,2,193,11,0,Low,Icy,Truck,28,23,Artificial Light,1,25/2/2025
+Clear,City Road,Evening,1,60,5,0,Moderate,Dry,Bus,36,33,No Light,1,9/11/2025
+Rainy,Highway,Evening,0,100,1,0,Moderate,Wet,Car,67,64,Daylight,0,1/8/2025
+Rainy,City Road,Evening,2,80,2,0,Moderate,Icy,Bus,55,54,No Light,1,17/2/2025
+Clear,City Road,Evening,2,60,1,0,Low,Dry,Car,69,64,Daylight,0,30/11/2024
+Foggy,Highway,Afternoon,0,80,2,0,Low,Wet,Car,40,36,Daylight,0,11/8/2025
+Rainy,Rural Road,Evening,2,50,3,0,High,Icy,Car,23,15,Artificial Light,1,28/6/2024
+Rainy,City Road,Night,1,50,4,0,Moderate,Dry,Car,32,23,Artificial Light,0,23/1/2025
+Snowy,Highway,Morning,2,100,2,0,Low,Wet,Car,46,44,Daylight,0,28/1/2024
+Stormy,Highway,Evening,2,120,2,1,Low,Icy,Car,40,40,Artificial Light,0,22/6/2025
+Clear,Highway,Evening,0,50,5,0,Low,Icy,Car,65,57,Artificial Light,0,10/5/2024
+Snowy,Highway,Morning,1,100,1,0,Low,Dry,Car,68,60,Daylight,0,22/6/2023
+Rainy,Highway,Night,1,100,3,0,High,Wet,Truck,67,64,Daylight,0,8/10/2024
+Rainy,Highway,Afternoon,2,80,3,0,Moderate,Icy,Car,30,28,Artificial Light,0,14/9/2025
+Foggy,City Road,Morning,1,50,4,0,Low,Icy,Car,36,34,Daylight,1,4/9/2023
+Clear,Highway,Afternoon,1,80,4,1,Low,Under Construction,Truck,40,35,Daylight,0,23/3/2025
+Clear,Rural Road,Morning,2,60,4,0,Low,Icy,Car,49,45,Artificial Light,0,20/2/2025
+Clear,Mountain Road,Evening,0,60,3,0,Low,Icy,Car,30,25,Artificial Light,0,27/3/2025
+Stormy,Highway,Night,0,50,2,0,High,Dry,Car,67,61,Daylight,1,26/2/2023
+Foggy,Highway,Afternoon,0,100,4,0,Low,Dry,Truck,28,25,Artificial Light,1,9/1/2023
+Clear,City Road,Morning,1,120,1,0,High,Dry,Car,59,54,Daylight,0,14/7/2025
+Clear,Rural Road,Morning,1,80,4,0,Moderate,Icy,Car,60,51,Artificial Light,0,7/5/2025
+Rainy,Highway,Morning,1,30,3,0,Low,Dry,Car,44,39,Artificial Light,0,20/5/2025
+Foggy,Highway,Afternoon,1,30,5,0,Low,Under Construction,Car,61,61,Daylight,1,19/8/2024
+Rainy,Highway,Evening,0,60,3,0,High,Icy,Car,18,9,Artificial Light,0,19/5/2024
+Snowy,Rural Road,Night,2,80,3,1,Low,Dry,Car,51,44,Artificial Light,0,16/2/2025
+Clear,Highway,Afternoon,1,50,4,0,Moderate,Dry,Motorcycle,58,55,Daylight,0,29/4/2024
+Clear,Rural Road,Evening,0,60,5,0,Low,Dry,Truck,52,46,Daylight,1,1/4/2025
+Snowy,City Road,Evening,0,50,1,0,Moderate,Wet,Car,69,61,Daylight,0,1/11/2023
+Rainy,Highway,Evening,0,30,3,0,Low,Dry,Car,35,34,No Light,0,5/5/2023
+Snowy,City Road,Night,2,60,2,1,High,Dry,Car,20,14,Daylight,0,12/9/2025
+Rainy,Rural Road,Evening,2,50,4,0,Moderate,Dry,Bus,61,60,Daylight,0,1/10/2024
+Rainy,Highway,Afternoon,1,50,5,0,Moderate,Icy,Truck,39,39,Artificial Light,0,13/7/2023
+Snowy,Highway,Night,2,80,4,0,Low,Icy,Car,68,66,Daylight,0,3/6/2025
+Rainy,Mountain Road,Morning,2,100,1,0,Moderate,Dry,Car,61,55,Artificial Light,0,13/7/2023
+Clear,Rural Road,Evening,2,50,2,0,High,Dry,Car,58,50,Artificial Light,0,26/9/2023
+Clear,Highway,Afternoon,1,100,5,1,High,Under Construction,Car,42,41,No Light,1,10/12/2025
+Clear,Highway,Night,2,50,3,0,Low,Icy,Car,43,37,Daylight,0,20/3/2024
+Foggy,City Road,Evening,2,30,2,0,Low,Wet,Car,63,62,Daylight,0,2/3/2023
+Rainy,Highway,Evening,1,60,4,0,Low,Icy,Car,54,52,Artificial Light,0,23/9/2023
+Clear,City Road,Afternoon,1,30,3,0,Low,Wet,Motorcycle,26,22,Daylight,0,28/2/2023
+Foggy,Highway,Afternoon,0,60,5,1,Low,Dry,Car,57,56,Daylight,1,26/12/2025
+Clear,Highway,Evening,0,100,2,0,Low,Dry,Motorcycle,34,30,Artificial Light,0,30/4/2025
+Clear,City Road,Night,1,50,5,0,Low,Dry,Motorcycle,33,31,Daylight,0,8/10/2024
+Rainy,Rural Road,Morning,0,80,4,1,Low,Under Construction,Car,52,52,Artificial Light,0,16/4/2025
+Clear,City Road,Morning,1,60,3,0,Moderate,Dry,Truck,23,14,Daylight,0,13/9/2023
+Rainy,City Road,Morning,1,80,2,0,Low,Icy,Car,55,50,No Light,0,2/2/2024
+Clear,Rural Road,Evening,1,100,1,0,Low,Icy,Car,62,55,Artificial Light,1,22/11/2025
+Snowy,Highway,Afternoon,1,60,4,0,Moderate,Dry,Truck,48,44,No Light,1,16/3/2023
+Snowy,Highway,Afternoon,0,60,1,0,High,Under Construction,Car,22,17,Artificial Light,0,21/4/2023
+Rainy,Rural Road,Afternoon,1,60,3,0,Low,Dry,Car,20,13,Daylight,1,5/2/2025
+Clear,City Road,Afternoon,1,100,3,0,Moderate,Under Construction,Car,38,38,Daylight,1,4/5/2024
+Snowy,Highway,Morning,2,60,1,0,High,Dry,Car,53,52,Daylight,0,8/12/2024
+Clear,Highway,Morning,0,100,4,0,Low,Dry,Motorcycle,24,20,Artificial Light,1,19/10/2024
+Rainy,Highway,Morning,0,80,1,0,Low,Dry,Car,22,22,Artificial Light,0,30/10/2024
+Stormy,Highway,Morning,0,60,3,0,Moderate,Dry,Car,54,53,Daylight,1,21/6/2023
+Clear,Highway,Night,1,50,3,0,Low,Dry,Car,46,44,Artificial Light,1,9/9/2023
+Clear,Highway,Morning,2,30,2,0,Low,Dry,Car,32,26,No Light,0,18/4/2023
+Clear,Highway,Morning,2,80,2,0,Low,Dry,Truck,40,37,Artificial Light,1,3/5/2025
+Rainy,City Road,Afternoon,2,60,1,0,Moderate,Dry,Car,32,30,Daylight,1,5/5/2024
+Foggy,Highway,Evening,1,50,1,0,Moderate,Dry,Car,46,39,Daylight,0,29/3/2023
+Snowy,Rural Road,Afternoon,1,50,3,0,Moderate,Dry,Car,67,62,Artificial Light,0,31/1/2025
+Clear,City Road,Morning,0,60,5,0,Low,Wet,Motorcycle,53,48,Artificial Light,1,23/7/2024
+Foggy,Highway,Morning,2,50,4,1,Low,Wet,Car,53,50,Artificial Light,0,25/8/2024
+Rainy,Mountain Road,Morning,2,50,1,0,Moderate,Dry,Motorcycle,61,54,Artificial Light,0,9/5/2025
+Rainy,City Road,Evening,2,80,4,0,Low,Icy,Car,22,19,Artificial Light,1,21/10/2025
+Clear,City Road,Afternoon,0,120,1,0,Moderate,Dry,Car,46,40,Artificial Light,1,4/3/2023
+Clear,City Road,Evening,0,60,4,0,High,Dry,Car,58,49,No Light,0,9/7/2024
+Rainy,City Road,Night,0,60,2,0,Low,Dry,Car,35,34,Artificial Light,0,12/10/2025
+Clear,Highway,Night,1,80,3,1,Low,Dry,Car,32,24,Artificial Light,0,14/4/2024
+Clear,City Road,Morning,0,80,2,0,Low,Dry,Car,19,14,Artificial Light,0,9/9/2023
+Clear,Highway,Morning,1,100,5,0,Low,Under Construction,Motorcycle,19,13,Daylight,0,24/12/2025
+Snowy,City Road,Afternoon,1,50,2,0,Low,Dry,Car,34,27,Artificial Light,0,14/7/2024
+Clear,Highway,Evening,2,80,3,0,Moderate,Dry,Truck,48,40,Daylight,0,14/5/2024
+Rainy,City Road,Evening,1,213,14,0,Low,Dry,Car,59,58,No Light,0,6/9/2023
+Clear,City Road,Afternoon,1,100,1,0,Low,Under Construction,Truck,49,40,Artificial Light,0,18/6/2023
+Foggy,City Road,Evening,0,50,3,0,Low,Under Construction,Motorcycle,61,61,Daylight,1,22/3/2024
+Clear,Rural Road,Morning,1,50,5,0,High,Icy,Truck,50,41,No Light,1,18/4/2024
+Clear,Highway,Afternoon,1,30,5,0,Moderate,Dry,Car,63,55,Artificial Light,1,20/11/2023
+Rainy,Rural Road,Night,0,30,3,1,Low,Dry,Car,51,42,No Light,0,16/9/2025
+Clear,City Road,Afternoon,2,50,2,0,Moderate,Wet,Car,34,30,Daylight,1,13/6/2024
+Clear,Rural Road,Afternoon,2,120,5,0,Low,Wet,Car,19,17,Daylight,0,31/7/2023
+Rainy,Highway,Afternoon,2,30,1,0,Low,Icy,Car,39,30,Artificial Light,0,18/4/2023
+Clear,Mountain Road,Night,0,50,1,0,Low,Icy,Motorcycle,40,39,Artificial Light,0,25/8/2023
+Rainy,Highway,Night,2,50,5,0,Moderate,Under Construction,Car,67,62,Daylight,0,27/9/2024
+Clear,Rural Road,Evening,0,60,5,0,Low,Dry,Truck,52,46,Daylight,1,21/3/2024
+Rainy,Rural Road,Evening,0,80,3,1,Moderate,Dry,Truck,47,40,Daylight,0,31/5/2025
+Clear,Rural Road,Afternoon,0,30,4,0,Low,Dry,Car,54,53,Daylight,0,7/7/2025
+Foggy,City Road,Morning,2,60,4,0,Moderate,Dry,Car,36,32,Artificial Light,0,2/10/2025
+Clear,Highway,Morning,0,100,5,0,Low,Wet,Motorcycle,41,32,Artificial Light,1,24/3/2023
+Rainy,Mountain Road,Morning,0,50,4,0,Moderate,Under Construction,Car,41,33,Daylight,0,3/6/2025
+Foggy,City Road,Evening,0,60,2,1,Low,Icy,Car,29,28,Daylight,0,28/5/2024
+Snowy,City Road,Evening,2,100,5,0,Low,Icy,Truck,60,57,Artificial Light,0,21/2/2023
+Clear,City Road,Evening,2,60,2,0,Moderate,Dry,Car,51,44,Artificial Light,0,5/1/2023
+Foggy,Rural Road,Night,1,120,2,0,Moderate,Icy,Bus,68,67,Artificial Light,0,18/3/2024
+Rainy,Highway,Morning,1,80,1,0,Low,Dry,Car,26,24,No Light,0,21/10/2025
+Stormy,City Road,Afternoon,2,100,4,0,Low,Icy,Car,68,65,No Light,0,12/1/2023
+Rainy,Highway,Afternoon,1,120,1,0,Low,Dry,Car,27,26,Daylight,0,21/12/2023
+Rainy,Highway,Afternoon,0,80,4,0,Moderate,Wet,Car,66,61,Artificial Light,0,16/1/2025
+Clear,Rural Road,Night,0,60,2,0,Low,Dry,Car,38,34,Artificial Light,1,8/4/2023
+Rainy,Highway,Afternoon,1,120,3,0,High,Wet,Bus,64,61,Artificial Light,0,20/10/2025
+Clear,Mountain Road,Evening,1,50,3,0,Low,Dry,Car,48,45,Artificial Light,0,22/11/2024
+Clear,Rural Road,Night,1,50,2,1,Low,Dry,Motorcycle,42,35,Artificial Light,1,9/12/2023
+Snowy,Rural Road,Evening,2,30,4,0,High,Dry,Truck,45,45,Daylight,0,15/6/2023
+Rainy,Highway,Evening,0,80,4,0,Moderate,Dry,Car,28,20,Artificial Light,1,11/8/2025
+Foggy,Mountain Road,Afternoon,1,60,4,0,Low,Under Construction,Car,46,42,Artificial Light,0,4/4/2023
+Clear,Highway,Evening,0,50,4,0,Low,Icy,Car,37,31,Artificial Light,1,10/12/2025
+Foggy,City Road,Afternoon,0,50,2,0,Low,Icy,Car,58,49,Artificial Light,1,11/1/2023
+Foggy,Highway,Morning,2,60,5,0,High,Wet,Car,51,47,Artificial Light,0,15/2/2024
+Clear,Rural Road,Evening,1,100,1,1,High,Dry,Truck,54,46,Artificial Light,0,21/7/2025
+Rainy,Highway,Morning,2,60,3,0,High,Dry,Car,48,48,Artificial Light,1,3/12/2024
+Clear,City Road,Morning,2,198,11,0,Low,Under Construction,Car,62,60,Artificial Light,0,11/9/2024
+Clear,City Road,Morning,0,60,2,0,Low,Under Construction,Car,64,58,No Light,0,11/10/2025
+Clear,City Road,Morning,1,192,10,0,Low,Dry,Car,19,18,Artificial Light,1,27/9/2024
+Foggy,City Road,Evening,2,60,4,0,Low,Icy,Car,31,30,Daylight,1,17/10/2025
+Snowy,Rural Road,Afternoon,2,30,5,1,Moderate,Dry,Car,56,50,Artificial Light,1,28/7/2024
+Clear,Highway,Afternoon,0,80,5,0,Low,Dry,Car,22,14,Daylight,0,15/1/2023
+Snowy,Highway,Afternoon,2,80,1,0,Low,Dry,Car,54,54,Artificial Light,0,9/11/2023
+Clear,Highway,Night,2,30,2,1,Moderate,Dry,Car,60,55,Artificial Light,1,15/9/2024
+Foggy,City Road,Afternoon,1,80,5,0,High,Wet,Car,37,34,Daylight,0,3/8/2023
+Foggy,Mountain Road,Night,1,60,1,0,Moderate,Under Construction,Car,58,58,Daylight,0,17/5/2024
+Rainy,Mountain Road,Afternoon,2,30,5,0,Low,Dry,Car,27,25,Artificial Light,0,19/5/2025
+Clear,City Road,Afternoon,1,30,1,0,Low,Wet,Car,65,61,Artificial Light,0,11/4/2025
+Rainy,Highway,Morning,1,30,3,0,Low,Dry,Motorcycle,69,64,Daylight,0,30/3/2025
+Snowy,Highway,Morning,1,80,4,1,Moderate,Dry,Car,33,27,Daylight,0,22/10/2023
+Clear,Highway,Morning,2,60,5,0,Low,Wet,Motorcycle,42,39,Daylight,0,14/7/2023
+Rainy,City Road,Evening,1,80,3,0,High,Icy,Truck,27,20,Daylight,1,26/8/2023
+Foggy,City Road,Afternoon,2,50,2,0,Moderate,Wet,Truck,55,47,Daylight,0,2/3/2023
+Clear,Highway,Evening,1,60,4,0,Moderate,Icy,Car,39,35,Daylight,1,9/5/2023
+Foggy,City Road,Evening,0,80,3,0,Moderate,Under Construction,Motorcycle,22,18,Daylight,0,16/1/2023
+Clear,City Road,Afternoon,0,60,3,0,Low,Dry,Truck,22,13,Daylight,1,22/12/2024
+Clear,Highway,Afternoon,1,80,5,0,Moderate,Dry,Car,38,35,Daylight,0,17/4/2025
+Rainy,Highway,Night,2,80,3,0,Low,Dry,Car,41,33,Artificial Light,0,29/2/2024
+Rainy,Mountain Road,Evening,0,212,10,0,Low,Wet,Truck,27,27,Artificial Light,0,1/2/2023
+Rainy,Highway,Night,1,30,5,0,Low,Icy,Car,55,54,Daylight,0,14/10/2023
+Snowy,Highway,Morning,2,100,2,0,Moderate,Wet,Car,26,17,Daylight,0,7/4/2024
+Clear,City Road,Afternoon,0,60,5,0,Moderate,Dry,Car,36,32,Artificial Light,0,21/8/2024
+Snowy,Highway,Afternoon,2,30,1,0,Moderate,Dry,Truck,39,37,Artificial Light,1,20/3/2025
+Foggy,City Road,Night,1,80,4,0,Moderate,Dry,Car,24,22,Daylight,0,1/9/2025
+Rainy,City Road,Morning,0,80,5,0,Moderate,Dry,Car,69,65,Daylight,0,22/9/2024
+Rainy,Highway,Night,1,30,4,1,Low,Icy,Car,54,51,No Light,0,4/7/2024
+Rainy,City Road,Morning,2,50,4,0,Low,Dry,Car,58,58,Daylight,1,27/11/2025
+Foggy,City Road,Night,1,60,1,0,Low,Dry,Truck,32,26,Artificial Light,1,10/11/2024
+Stormy,Rural Road,Afternoon,2,30,2,0,Moderate,Icy,Motorcycle,47,43,Daylight,0,22/8/2024
+Rainy,Rural Road,Evening,1,60,2,0,High,Dry,Car,20,18,Daylight,0,28/7/2024
+Clear,Highway,Evening,1,80,2,0,Moderate,Under Construction,Car,24,21,No Light,0,8/3/2025
+Clear,Highway,Night,1,80,3,0,Low,Icy,Car,46,39,Daylight,0,25/4/2024
+Clear,Highway,Afternoon,1,60,4,0,Low,Wet,Car,33,24,Artificial Light,1,23/7/2023
+Clear,City Road,Morning,2,80,5,0,Moderate,Dry,Car,33,30,Artificial Light,0,23/9/2023
+Clear,City Road,Evening,0,60,5,0,Low,Dry,Truck,66,62,Daylight,1,15/4/2025
+Rainy,Highway,Evening,1,50,3,1,High,Icy,Car,61,60,Daylight,0,26/4/2025
+Rainy,City Road,Afternoon,0,60,2,0,Low,Icy,Car,65,62,Artificial Light,0,28/10/2023
+Rainy,Highway,Evening,1,50,1,0,Low,Dry,Truck,19,10,Artificial Light,1,30/8/2023
+Clear,City Road,Evening,0,30,1,0,Low,Wet,Car,33,25,Daylight,0,16/10/2023
+Rainy,City Road,Evening,2,50,1,0,Low,Dry,Car,53,44,Daylight,0,6/11/2025
+Snowy,Highway,Morning,2,60,2,0,Low,Dry,Motorcycle,26,24,Artificial Light,0,19/4/2024
+Clear,Highway,Afternoon,2,100,4,0,Low,Dry,Motorcycle,56,52,Artificial Light,0,3/11/2024
+Clear,Highway,Morning,1,50,5,1,Low,Dry,Truck,51,47,Artificial Light,0,20/11/2024
+Snowy,Highway,Afternoon,1,100,2,0,Low,Icy,Car,34,27,Daylight,1,25/7/2024
+Clear,Highway,Evening,1,80,3,0,Moderate,Dry,Bus,34,26,Artificial Light,0,10/11/2023
+Snowy,Highway,Afternoon,0,60,2,0,Low,Dry,Car,48,40,Artificial Light,0,12/5/2024
+Foggy,Rural Road,Afternoon,0,100,3,0,Low,Dry,Car,66,62,Daylight,0,14/8/2025
+Rainy,Rural Road,Afternoon,2,50,1,0,Low,Wet,Car,50,46,Artificial Light,0,16/7/2025
+Stormy,City Road,Afternoon,0,60,1,0,Low,Under Construction,Motorcycle,44,38,No Light,1,12/3/2024
+Clear,City Road,Evening,0,60,2,0,Low,Wet,Car,23,17,Daylight,0,11/7/2023
+Snowy,Rural Road,Afternoon,2,100,4,0,Low,Dry,Car,40,36,Daylight,1,21/10/2023
+Rainy,Highway,Afternoon,0,80,5,0,Low,Dry,Truck,39,38,Artificial Light,0,9/11/2023
+Clear,City Road,Afternoon,1,60,3,0,Low,Under Construction,Car,67,65,Artificial Light,0,15/11/2025
+Rainy,Highway,Night,1,100,1,0,Low,Under Construction,Car,53,53,Artificial Light,1,19/4/2023
+Stormy,Highway,Night,1,50,4,1,Low,Under Construction,Motorcycle,68,64,Artificial Light,0,23/3/2023
+Rainy,Highway,Morning,0,30,1,0,High,Dry,Car,69,62,Artificial Light,0,26/7/2025
+Clear,City Road,Afternoon,1,60,2,0,Low,Under Construction,Car,57,55,Artificial Light,0,9/7/2024
+Foggy,Rural Road,Evening,0,50,1,0,Low,Dry,Car,23,17,Daylight,0,3/4/2025
+Rainy,City Road,Afternoon,1,80,1,0,Low,Wet,Car,43,42,Artificial Light,1,9/4/2025
+Snowy,Rural Road,Night,1,80,4,0,Low,Under Construction,Car,48,39,Artificial Light,0,17/8/2023
+Stormy,City Road,Afternoon,1,100,2,0,High,Wet,Car,68,62,Daylight,0,12/2/2023
+Clear,City Road,Afternoon,0,100,5,0,Low,Icy,Car,33,31,Artificial Light,0,22/12/2025
+Clear,Highway,Afternoon,2,80,4,0,Low,Under Construction,Truck,31,27,Artificial Light,0,24/9/2025
+Foggy,Highway,Afternoon,1,120,2,1,Low,Dry,Bus,46,40,Daylight,0,29/1/2024
+Clear,City Road,Afternoon,1,60,5,0,Low,Dry,Truck,23,14,Daylight,0,24/12/2024
+Rainy,Highway,Night,1,60,5,0,Moderate,Dry,Car,27,22,Artificial Light,1,12/8/2023
+Foggy,Highway,Evening,1,60,3,0,Moderate,Icy,Car,61,56,Artificial Light,0,19/9/2023
+Foggy,City Road,Afternoon,0,100,2,0,Moderate,Under Construction,Car,37,37,Artificial Light,0,13/1/2025
+Rainy,Highway,Afternoon,1,80,1,0,High,Dry,Truck,24,23,No Light,0,23/11/2024
+Clear,Highway,Afternoon,1,100,2,1,Moderate,Wet,Car,56,51,Artificial Light,0,11/12/2025
+Clear,City Road,Afternoon,2,100,3,0,Low,Dry,Car,21,12,Artificial Light,0,15/12/2023
+Foggy,City Road,Morning,1,80,3,0,Moderate,Dry,Car,21,16,Artificial Light,0,30/10/2023
+Clear,Highway,Morning,1,100,2,0,Moderate,Wet,Car,56,48,Artificial Light,1,24/12/2025
+Clear,Highway,Night,2,30,4,0,Low,Dry,Car,23,15,Daylight,0,18/12/2025
+Rainy,Rural Road,Evening,2,60,4,0,Low,Dry,Motorcycle,52,46,Daylight,1,18/8/2024
+Foggy,Highway,Afternoon,2,60,3,0,Low,Dry,Car,25,19,Artificial Light,0,5/3/2023
+Clear,Highway,Afternoon,1,60,4,0,Low,Dry,Motorcycle,29,21,Artificial Light,0,5/8/2023
+Foggy,City Road,Evening,0,100,1,0,Low,Dry,Car,35,26,Artificial Light,1,14/1/2023
+Rainy,Highway,Night,2,30,5,0,Low,Icy,Car,56,55,Daylight,1,8/11/2024
+Snowy,City Road,Evening,1,50,2,0,Low,Wet,Car,67,65,Artificial Light,1,26/3/2024
+Clear,City Road,Morning,2,50,1,0,Low,Dry,Car,62,53,Artificial Light,1,8/5/2023
+Rainy,Mountain Road,Evening,2,100,3,0,Moderate,Icy,Truck,59,57,Artificial Light,0,21/7/2024
+Clear,Highway,Afternoon,0,60,4,0,High,Under Construction,Car,24,19,Artificial Light,0,12/7/2023
+Clear,Highway,Afternoon,0,100,5,0,Moderate,Dry,Car,43,41,Daylight,0,2/2/2025
+Clear,Highway,Evening,1,80,2,0,Moderate,Under Construction,Car,24,21,No Light,0,28/8/2024
+Foggy,Highway,Morning,0,80,4,0,Low,Dry,Car,56,51,No Light,1,9/1/2024
+Rainy,Rural Road,Afternoon,2,60,4,0,Low,Dry,Car,46,40,Daylight,0,14/12/2024
+Stormy,Highway,Night,1,100,3,0,Moderate,Icy,Car,29,21,Daylight,0,18/5/2024
+Rainy,Rural Road,Afternoon,1,60,4,0,Low,Dry,Car,52,44,Artificial Light,0,10/10/2025
+Stormy,Mountain Road,Evening,2,50,3,0,Low,Dry,Bus,58,51,No Light,0,23/10/2024
+Clear,Highway,Morning,2,120,3,0,Low,Wet,Car,43,40,Daylight,0,26/11/2023
+Clear,Highway,Morning,2,100,2,0,Low,Dry,Car,48,43,Daylight,0,19/8/2024
+Clear,Highway,Afternoon,1,100,2,0,Low,Dry,Car,20,15,Artificial Light,0,3/4/2023
+Clear,Rural Road,Night,0,60,5,0,Low,Wet,Truck,46,45,Artificial Light,0,18/11/2023
+Clear,Highway,Night,2,60,4,0,Low,Dry,Car,55,51,Artificial Light,1,27/1/2024
+Clear,City Road,Morning,2,50,1,0,Low,Dry,Car,67,66,Artificial Light,0,7/5/2023
+Foggy,Highway,Evening,0,50,3,0,Low,Dry,Car,64,62,Artificial Light,0,11/1/2024
+Clear,Highway,Afternoon,0,60,1,0,Moderate,Icy,Car,56,55,Daylight,0,12/4/2024
+Clear,City Road,Morning,0,50,5,0,Moderate,Dry,Truck,68,61,Daylight,1,5/1/2025
+Clear,Highway,Afternoon,2,100,4,0,Low,Dry,Car,39,34,Artificial Light,1,5/10/2025
+Stormy,Highway,Morning,0,60,1,0,Moderate,Dry,Car,21,19,Artificial Light,0,21/12/2024
+Stormy,Highway,Morning,2,60,4,0,Low,Wet,Car,31,29,Artificial Light,0,11/7/2023
+Foggy,Mountain Road,Morning,2,193,11,0,Low,Icy,Truck,28,23,Artificial Light,1,21/6/2025
+Clear,City Road,Evening,1,60,5,0,Moderate,Dry,Bus,36,33,No Light,1,29/11/2025
+Rainy,Highway,Evening,0,100,1,0,Moderate,Wet,Car,67,64,Daylight,0,16/9/2024
+Rainy,City Road,Evening,2,80,2,0,Moderate,Icy,Bus,55,54,No Light,1,24/7/2025
+Clear,City Road,Evening,2,60,1,0,Low,Dry,Car,69,64,Daylight,0,12/11/2024
+Foggy,Highway,Afternoon,0,80,2,0,Low,Wet,Car,40,36,Daylight,0,1/11/2023
+Rainy,Rural Road,Evening,2,50,3,0,High,Icy,Car,23,15,Artificial Light,1,22/10/2025
+Rainy,City Road,Night,1,50,4,0,Moderate,Dry,Car,32,23,Artificial Light,0,26/8/2023
+Snowy,Highway,Morning,2,100,2,0,Low,Wet,Car,46,44,Daylight,0,11/4/2023
+Stormy,Highway,Evening,2,120,2,1,Low,Icy,Car,40,40,Artificial Light,0,5/6/2023
+Clear,Highway,Evening,0,50,5,0,Low,Icy,Car,65,57,Artificial Light,0,25/2/2025
+Snowy,Highway,Morning,1,100,1,0,Low,Dry,Car,68,60,Daylight,0,27/2/2023
+Rainy,Highway,Night,1,100,3,0,High,Wet,Truck,67,64,Daylight,0,16/9/2024
+Rainy,Highway,Afternoon,2,80,3,0,Moderate,Icy,Car,30,28,Artificial Light,0,5/1/2023
+Foggy,City Road,Morning,1,50,4,0,Low,Icy,Car,36,34,Daylight,1,5/4/2023
+Clear,Highway,Afternoon,1,80,4,1,Low,Under Construction,Truck,40,35,Daylight,0,30/1/2025
+Clear,Rural Road,Morning,2,60,4,0,Low,Icy,Car,49,45,Artificial Light,0,11/10/2023
+Clear,Mountain Road,Evening,0,60,3,0,Low,Icy,Car,30,25,Artificial Light,0,3/7/2025
+Stormy,Highway,Night,0,50,2,0,High,Dry,Car,67,61,Daylight,1,4/9/2025
+Foggy,Highway,Afternoon,0,100,4,0,Low,Dry,Truck,28,25,Artificial Light,1,1/2/2025
+Clear,City Road,Morning,1,120,1,0,High,Dry,Car,59,54,Daylight,0,29/12/2024
+Clear,Rural Road,Morning,1,80,4,0,Moderate,Icy,Car,60,51,Artificial Light,0,5/10/2024
+Rainy,Highway,Morning,1,30,3,0,Low,Dry,Car,44,39,Artificial Light,0,10/4/2023
+Foggy,Highway,Afternoon,1,30,5,0,Low,Under Construction,Car,61,61,Daylight,1,23/9/2024
+Rainy,Highway,Evening,0,60,3,0,High,Icy,Car,18,9,Artificial Light,0,19/12/2024
+Snowy,Rural Road,Night,2,80,3,1,Low,Dry,Car,51,44,Artificial Light,0,8/10/2023
+Clear,Highway,Afternoon,1,50,4,0,Moderate,Dry,Motorcycle,58,55,Daylight,0,23/4/2023
+Clear,Rural Road,Evening,0,60,5,0,Low,Dry,Truck,52,46,Daylight,1,13/9/2023
+Snowy,City Road,Evening,0,50,1,0,Moderate,Wet,Car,69,61,Daylight,0,5/7/2024
+Rainy,Highway,Evening,0,30,3,0,Low,Dry,Car,35,34,No Light,0,23/2/2025
+Snowy,City Road,Night,2,60,2,1,High,Dry,Car,20,14,Daylight,0,10/6/2023
+Rainy,Rural Road,Evening,2,50,4,0,Moderate,Dry,Bus,61,60,Daylight,0,6/2/2024
+Rainy,Highway,Afternoon,1,50,5,0,Moderate,Icy,Truck,39,39,Artificial Light,0,4/6/2023
+Snowy,Highway,Night,2,80,4,0,Low,Icy,Car,68,66,Daylight,0,17/10/2024
+Rainy,Mountain Road,Morning,2,100,1,0,Moderate,Dry,Car,61,55,Artificial Light,0,25/9/2024
+Clear,Rural Road,Evening,2,50,2,0,High,Dry,Car,58,50,Artificial Light,0,31/12/2025
+Clear,Highway,Afternoon,1,100,5,1,High,Under Construction,Car,42,41,No Light,1,19/3/2023
+Clear,Highway,Night,2,50,3,0,Low,Icy,Car,43,37,Daylight,0,18/5/2023
+Foggy,City Road,Evening,2,30,2,0,Low,Wet,Car,63,62,Daylight,0,31/7/2025
+Rainy,Highway,Evening,1,60,4,0,Low,Icy,Car,54,52,Artificial Light,0,7/12/2025
+Clear,City Road,Afternoon,1,30,3,0,Low,Wet,Motorcycle,26,22,Daylight,0,11/5/2025
+Foggy,Highway,Afternoon,0,60,5,1,Low,Dry,Car,57,56,Daylight,1,18/1/2023
+Clear,Highway,Evening,0,100,2,0,Low,Dry,Motorcycle,34,30,Artificial Light,0,9/1/2024
+Clear,City Road,Night,1,50,5,0,Low,Dry,Motorcycle,33,31,Daylight,0,19/6/2023
+Rainy,Rural Road,Morning,0,80,4,1,Low,Under Construction,Car,52,52,Artificial Light,0,10/12/2023
+Clear,City Road,Morning,1,60,3,0,Moderate,Dry,Truck,23,14,Daylight,0,5/10/2023
+Rainy,City Road,Morning,1,80,2,0,Low,Icy,Car,55,50,No Light,0,1/9/2023
+Clear,Rural Road,Evening,1,100,1,0,Low,Icy,Car,62,55,Artificial Light,1,30/5/2025
+Snowy,Highway,Afternoon,1,60,4,0,Moderate,Dry,Truck,48,44,No Light,1,8/7/2024
+Snowy,Highway,Afternoon,0,60,1,0,High,Under Construction,Car,22,17,Artificial Light,0,18/5/2025
+Rainy,Rural Road,Afternoon,1,60,3,0,Low,Dry,Car,20,13,Daylight,1,31/5/2023
+Clear,City Road,Afternoon,1,100,3,0,Moderate,Under Construction,Car,38,38,Daylight,1,27/2/2025
+Snowy,Highway,Morning,2,60,1,0,High,Dry,Car,53,52,Daylight,0,11/1/2023
+Clear,Highway,Morning,0,100,4,0,Low,Dry,Motorcycle,24,20,Artificial Light,1,28/1/2023
+Rainy,Highway,Morning,0,80,1,0,Low,Dry,Car,22,22,Artificial Light,0,7/10/2024
+Stormy,Highway,Morning,0,60,3,0,Moderate,Dry,Car,54,53,Daylight,1,7/1/2024
+Clear,Highway,Night,1,50,3,0,Low,Dry,Car,46,44,Artificial Light,1,11/3/2024
+Clear,Highway,Morning,2,30,2,0,Low,Dry,Car,32,26,No Light,0,31/5/2023
+Clear,Highway,Morning,2,80,2,0,Low,Dry,Truck,40,37,Artificial Light,1,24/3/2023
+Rainy,City Road,Afternoon,2,60,1,0,Moderate,Dry,Car,32,30,Daylight,1,6/8/2023
+Foggy,Highway,Evening,1,50,1,0,Moderate,Dry,Car,46,39,Daylight,0,14/7/2025
+Snowy,Rural Road,Afternoon,1,50,3,0,Moderate,Dry,Car,67,62,Artificial Light,0,10/1/2024
+Clear,City Road,Morning,0,60,5,0,Low,Wet,Motorcycle,53,48,Artificial Light,1,11/5/2023
+Foggy,Highway,Morning,2,50,4,1,Low,Wet,Car,53,50,Artificial Light,0,28/12/2025
+Rainy,Mountain Road,Morning,2,50,1,0,Moderate,Dry,Motorcycle,61,54,Artificial Light,0,6/7/2025
+Rainy,City Road,Evening,2,80,4,0,Low,Icy,Car,22,19,Artificial Light,1,8/12/2023
+Clear,City Road,Afternoon,0,120,1,0,Moderate,Dry,Car,46,40,Artificial Light,1,5/9/2024
+Clear,City Road,Evening,0,60,4,0,High,Dry,Car,58,49,No Light,0,28/8/2024
+Rainy,City Road,Night,0,60,2,0,Low,Dry,Car,35,34,Artificial Light,0,20/7/2025
+Clear,Highway,Night,1,80,3,1,Low,Dry,Car,32,24,Artificial Light,0,21/3/2023
+Clear,City Road,Morning,0,80,2,0,Low,Dry,Car,19,14,Artificial Light,0,5/4/2024
+Clear,Highway,Morning,1,100,5,0,Low,Under Construction,Motorcycle,19,13,Daylight,0,17/12/2025
+Snowy,City Road,Afternoon,1,50,2,0,Low,Dry,Car,34,27,Artificial Light,0,8/11/2024
+Clear,Highway,Evening,2,80,3,0,Moderate,Dry,Truck,48,40,Daylight,0,10/1/2023
+Rainy,City Road,Evening,1,213,14,0,Low,Dry,Car,59,58,No Light,0,20/2/2024
+Clear,City Road,Afternoon,1,100,1,0,Low,Under Construction,Truck,49,40,Artificial Light,0,25/7/2024
+Foggy,City Road,Evening,0,50,3,0,Low,Under Construction,Motorcycle,61,61,Daylight,1,11/11/2024
+Clear,Rural Road,Morning,1,50,5,0,High,Icy,Truck,50,41,No Light,1,18/11/2024
+Clear,Highway,Afternoon,1,30,5,0,Moderate,Dry,Car,63,55,Artificial Light,1,25/1/2024
+Rainy,Rural Road,Night,0,30,3,1,Low,Dry,Car,51,42,No Light,0,13/3/2024
+Clear,City Road,Afternoon,2,50,2,0,Moderate,Wet,Car,34,30,Daylight,1,24/12/2024
+Clear,Rural Road,Afternoon,2,120,5,0,Low,Wet,Car,19,17,Daylight,0,8/8/2023
+Rainy,Highway,Afternoon,2,30,1,0,Low,Icy,Car,39,30,Artificial Light,0,15/2/2023
+Clear,Mountain Road,Night,0,50,1,0,Low,Icy,Motorcycle,40,39,Artificial Light,0,1/9/2024
+Rainy,Highway,Night,2,50,5,0,Moderate,Under Construction,Car,67,62,Daylight,0,23/11/2025
+Clear,Rural Road,Evening,0,60,5,0,Low,Dry,Truck,52,46,Daylight,1,17/4/2024
+Rainy,Rural Road,Evening,0,80,3,1,Moderate,Dry,Truck,47,40,Daylight,0,17/9/2023
+Clear,Rural Road,Afternoon,0,30,4,0,Low,Dry,Car,54,53,Daylight,0,23/7/2025
+Foggy,City Road,Morning,2,60,4,0,Moderate,Dry,Car,36,32,Artificial Light,0,28/3/2023
+Clear,Highway,Morning,0,100,5,0,Low,Wet,Motorcycle,41,32,Artificial Light,1,12/8/2025
+Rainy,Mountain Road,Morning,0,50,4,0,Moderate,Under Construction,Car,41,33,Daylight,0,9/2/2025
+Foggy,City Road,Evening,0,60,2,1,Low,Icy,Car,29,28,Daylight,0,21/7/2025
+Snowy,City Road,Evening,2,100,5,0,Low,Icy,Truck,60,57,Artificial Light,0,15/9/2025
+Clear,City Road,Evening,2,60,2,0,Moderate,Dry,Car,51,44,Artificial Light,0,18/7/2025
+Foggy,Rural Road,Night,1,120,2,0,Moderate,Icy,Bus,68,67,Artificial Light,0,4/9/2025
+Rainy,Highway,Morning,1,80,1,0,Low,Dry,Car,26,24,No Light,0,30/1/2024
+Stormy,City Road,Afternoon,2,100,4,0,Low,Icy,Car,68,65,No Light,0,12/12/2024
+Rainy,Highway,Afternoon,1,120,1,0,Low,Dry,Car,27,26,Daylight,0,18/1/2024
+Rainy,Highway,Afternoon,0,80,4,0,Moderate,Wet,Car,66,61,Artificial Light,0,10/11/2023
+Clear,Rural Road,Night,0,60,2,0,Low,Dry,Car,38,34,Artificial Light,1,28/9/2023
+Rainy,Highway,Afternoon,1,120,3,0,High,Wet,Bus,64,61,Artificial Light,0,27/6/2023
+Clear,Mountain Road,Evening,1,50,3,0,Low,Dry,Car,48,45,Artificial Light,0,8/3/2024
+Clear,Rural Road,Night,1,50,2,1,Low,Dry,Motorcycle,42,35,Artificial Light,1,26/11/2023
+Snowy,Rural Road,Evening,2,30,4,0,High,Dry,Truck,45,45,Daylight,0,18/10/2023
+Rainy,Highway,Evening,0,80,4,0,Moderate,Dry,Car,28,20,Artificial Light,1,9/11/2025
+Foggy,Mountain Road,Afternoon,1,60,4,0,Low,Under Construction,Car,46,42,Artificial Light,0,25/6/2023
+Clear,Highway,Evening,0,50,4,0,Low,Icy,Car,37,31,Artificial Light,1,6/12/2024
+Foggy,City Road,Afternoon,0,50,2,0,Low,Icy,Car,58,49,Artificial Light,1,2/1/2023
+Foggy,Highway,Morning,2,60,5,0,High,Wet,Car,51,47,Artificial Light,0,2/11/2024
+Clear,Rural Road,Evening,1,100,1,1,High,Dry,Truck,54,46,Artificial Light,0,14/11/2023
+Rainy,Highway,Morning,2,60,3,0,High,Dry,Car,48,48,Artificial Light,1,31/5/2025
+Clear,City Road,Morning,2,198,11,0,Low,Under Construction,Car,62,60,Artificial Light,0,15/3/2024
+Clear,City Road,Morning,0,60,2,0,Low,Under Construction,Car,64,58,No Light,0,12/3/2025
+Clear,City Road,Morning,1,192,10,0,Low,Dry,Car,19,18,Artificial Light,1,25/10/2024
+Foggy,City Road,Evening,2,60,4,0,Low,Icy,Car,31,30,Daylight,1,28/7/2025
+Snowy,Rural Road,Afternoon,2,30,5,1,Moderate,Dry,Car,56,50,Artificial Light,1,5/1/2025
+Clear,Highway,Afternoon,0,80,5,0,Low,Dry,Car,22,14,Daylight,0,26/9/2023
+Snowy,Highway,Afternoon,2,80,1,0,Low,Dry,Car,54,54,Artificial Light,0,5/1/2025
+Clear,Highway,Night,2,30,2,1,Moderate,Dry,Car,60,55,Artificial Light,1,3/4/2023
+Foggy,City Road,Afternoon,1,80,5,0,High,Wet,Car,37,34,Daylight,0,6/7/2025
+Foggy,Mountain Road,Night,1,60,1,0,Moderate,Under Construction,Car,58,58,Daylight,0,3/10/2023
+Rainy,Mountain Road,Afternoon,2,30,5,0,Low,Dry,Car,27,25,Artificial Light,0,6/7/2024
+Clear,City Road,Afternoon,1,30,1,0,Low,Wet,Car,65,61,Artificial Light,0,24/1/2023
+Rainy,Highway,Morning,1,30,3,0,Low,Dry,Motorcycle,69,64,Daylight,0,16/11/2024
+Snowy,Highway,Morning,1,80,4,1,Moderate,Dry,Car,33,27,Daylight,0,24/12/2024
+Clear,Highway,Morning,2,60,5,0,Low,Wet,Motorcycle,42,39,Daylight,0,5/2/2023
+Rainy,City Road,Evening,1,80,3,0,High,Icy,Truck,27,20,Daylight,1,12/3/2024
+Foggy,City Road,Afternoon,2,50,2,0,Moderate,Wet,Truck,55,47,Daylight,0,14/7/2025
+Clear,Highway,Evening,1,60,4,0,Moderate,Icy,Car,39,35,Daylight,1,1/2/2025
+Foggy,City Road,Evening,0,80,3,0,Moderate,Under Construction,Motorcycle,22,18,Daylight,0,13/5/2025
+Clear,City Road,Afternoon,0,60,3,0,Low,Dry,Truck,22,13,Daylight,1,2/5/2023
+Clear,Highway,Afternoon,1,80,5,0,Moderate,Dry,Car,38,35,Daylight,0,29/10/2025
+Rainy,Highway,Night,2,80,3,0,Low,Dry,Car,41,33,Artificial Light,0,6/8/2023
+Rainy,Mountain Road,Evening,0,212,10,0,Low,Wet,Truck,27,27,Artificial Light,0,17/2/2025
+Rainy,Highway,Night,1,30,5,0,Low,Icy,Car,55,54,Daylight,0,19/5/2025
+Snowy,Highway,Morning,2,100,2,0,Moderate,Wet,Car,26,17,Daylight,0,18/11/2025
+Clear,City Road,Afternoon,0,60,5,0,Moderate,Dry,Car,36,32,Artificial Light,0,18/8/2025
+Snowy,Highway,Afternoon,2,30,1,0,Moderate,Dry,Truck,39,37,Artificial Light,1,30/8/2025
+Foggy,City Road,Night,1,80,4,0,Moderate,Dry,Car,24,22,Daylight,0,5/5/2025
+Rainy,City Road,Morning,0,80,5,0,Moderate,Dry,Car,69,65,Daylight,0,6/1/2025
+Rainy,Highway,Night,1,30,4,1,Low,Icy,Car,54,51,No Light,0,14/5/2023
+Rainy,City Road,Morning,2,50,4,0,Low,Dry,Car,58,58,Daylight,1,6/6/2024
+Foggy,City Road,Night,1,60,1,0,Low,Dry,Truck,32,26,Artificial Light,1,15/10/2023
+Stormy,Rural Road,Afternoon,2,30,2,0,Moderate,Icy,Motorcycle,47,43,Daylight,0,9/11/2023
+Rainy,Rural Road,Evening,1,60,2,0,High,Dry,Car,20,18,Daylight,0,6/6/2025
+Clear,Highway,Evening,1,80,2,0,Moderate,Under Construction,Car,24,21,No Light,0,6/5/2023
+Clear,Highway,Night,1,80,3,0,Low,Icy,Car,46,39,Daylight,0,26/7/2023
+Clear,Highway,Afternoon,1,60,4,0,Low,Wet,Car,33,24,Artificial Light,1,9/4/2025
+Clear,City Road,Morning,2,80,5,0,Moderate,Dry,Car,33,30,Artificial Light,0,17/7/2024
+Clear,City Road,Evening,0,60,5,0,Low,Dry,Truck,66,62,Daylight,1,6/9/2024
+Rainy,Highway,Evening,1,50,3,1,High,Icy,Car,61,60,Daylight,0,27/3/2023
+Rainy,City Road,Afternoon,0,60,2,0,Low,Icy,Car,65,62,Artificial Light,0,24/2/2024
+Rainy,Highway,Evening,1,50,1,0,Low,Dry,Truck,19,10,Artificial Light,1,5/10/2025
+Clear,City Road,Evening,0,30,1,0,Low,Wet,Car,33,25,Daylight,0,23/5/2024
+Rainy,City Road,Evening,2,50,1,0,Low,Dry,Car,53,44,Daylight,0,10/8/2023
+Snowy,Highway,Morning,2,60,2,0,Low,Dry,Motorcycle,26,24,Artificial Light,0,23/3/2023
+Clear,Highway,Afternoon,2,100,4,0,Low,Dry,Motorcycle,56,52,Artificial Light,0,11/6/2025
+Clear,Highway,Morning,1,50,5,1,Low,Dry,Truck,51,47,Artificial Light,0,22/12/2024
+Snowy,Highway,Afternoon,1,100,2,0,Low,Icy,Car,34,27,Daylight,1,17/4/2025
+Clear,Highway,Evening,1,80,3,0,Moderate,Dry,Bus,34,26,Artificial Light,0,30/3/2024
+Snowy,Highway,Afternoon,0,60,2,0,Low,Dry,Car,48,40,Artificial Light,0,22/10/2025
+Foggy,Rural Road,Afternoon,0,100,3,0,Low,Dry,Car,66,62,Daylight,0,16/8/2024
+Rainy,Rural Road,Afternoon,2,50,1,0,Low,Wet,Car,50,46,Artificial Light,0,20/9/2024
+Stormy,City Road,Afternoon,0,60,1,0,Low,Under Construction,Motorcycle,44,38,No Light,1,25/2/2024
+Clear,City Road,Evening,0,60,2,0,Low,Wet,Car,23,17,Daylight,0,23/5/2023
+Snowy,Rural Road,Afternoon,2,100,4,0,Low,Dry,Car,40,36,Daylight,1,12/4/2025
+Rainy,Highway,Afternoon,0,80,5,0,Low,Dry,Truck,39,38,Artificial Light,0,25/4/2024
+Clear,City Road,Afternoon,1,60,3,0,Low,Under Construction,Car,67,65,Artificial Light,0,11/3/2024
+Rainy,Highway,Night,1,100,1,0,Low,Under Construction,Car,53,53,Artificial Light,1,6/3/2025
+Stormy,Highway,Night,1,50,4,1,Low,Under Construction,Motorcycle,68,64,Artificial Light,0,22/8/2024
+Rainy,Highway,Morning,0,30,1,0,High,Dry,Car,69,62,Artificial Light,0,22/10/2025
+Clear,City Road,Afternoon,1,60,2,0,Low,Under Construction,Car,57,55,Artificial Light,0,2/7/2023
+Foggy,Rural Road,Evening,0,50,1,0,Low,Dry,Car,23,17,Daylight,0,31/3/2025
+Rainy,City Road,Afternoon,1,80,1,0,Low,Wet,Car,43,42,Artificial Light,1,14/7/2025
+Snowy,Rural Road,Night,1,80,4,0,Low,Under Construction,Car,48,39,Artificial Light,0,21/6/2024
+Stormy,City Road,Afternoon,1,100,2,0,High,Wet,Car,68,62,Daylight,0,26/1/2025
+Clear,City Road,Afternoon,0,100,5,0,Low,Icy,Car,33,31,Artificial Light,0,16/12/2024
+Clear,Highway,Afternoon,2,80,4,0,Low,Under Construction,Truck,31,27,Artificial Light,0,17/7/2024
+Foggy,Highway,Afternoon,1,120,2,1,Low,Dry,Bus,46,40,Daylight,0,28/2/2025
+Clear,City Road,Afternoon,1,60,5,0,Low,Dry,Truck,23,14,Daylight,0,10/11/2024
+Rainy,Highway,Night,1,60,5,0,Moderate,Dry,Car,27,22,Artificial Light,1,13/7/2024
+Foggy,Highway,Evening,1,60,3,0,Moderate,Icy,Car,61,56,Artificial Light,0,23/4/2025
+Foggy,City Road,Afternoon,0,100,2,0,Moderate,Under Construction,Car,37,37,Artificial Light,0,19/6/2025
+Rainy,Highway,Afternoon,1,80,1,0,High,Dry,Truck,24,23,No Light,0,13/5/2023
+Clear,Highway,Afternoon,1,100,2,1,Moderate,Wet,Car,56,51,Artificial Light,0,1/8/2023
+Clear,City Road,Afternoon,2,100,3,0,Low,Dry,Car,21,12,Artificial Light,0,23/9/2023
+Foggy,City Road,Morning,1,80,3,0,Moderate,Dry,Car,21,16,Artificial Light,0,12/1/2024
+Clear,Highway,Morning,1,100,2,0,Moderate,Wet,Car,56,48,Artificial Light,1,7/12/2023
+Clear,Highway,Night,2,30,4,0,Low,Dry,Car,23,15,Daylight,0,5/11/2025
+Rainy,Rural Road,Evening,2,60,4,0,Low,Dry,Motorcycle,52,46,Daylight,1,7/10/2025
+Foggy,Highway,Afternoon,2,60,3,0,Low,Dry,Car,25,19,Artificial Light,0,15/5/2023
+Clear,Highway,Afternoon,1,60,4,0,Low,Dry,Motorcycle,29,21,Artificial Light,0,19/1/2024
